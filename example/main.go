@@ -4,7 +4,7 @@ import (
 	_ "github.com/go-sql-driver/mysql"
 	"fmt"
 	"path/filepath"
-	"code.zm.shzhanmeng.com/go-common/mysql_xorm"
+	"github.com/DavidXia1989/mysql_xorm"
 	"time"
 )
 

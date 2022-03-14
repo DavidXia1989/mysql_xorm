@@ -4,7 +4,7 @@ import (
 	"path/filepath"
 	"fmt"
 	"testing"
-	"code.zm.shzhanmeng.com/go-common/mysql_xorm"
+	"github.com/DavidXia1989/mysql_xorm"
 )
 
 func Test_NewClientByFile_1(t *testing.T) {
